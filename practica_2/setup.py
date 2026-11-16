@@ -29,6 +29,7 @@ setup(
     entry_points={
         'console_scripts': [
             'capturador_imagenes = practica_2.capturador_imagenes:main',
+            'corrector_distorsion = practica_2.corrector_distorsion:main',
         ],
     },
 )
