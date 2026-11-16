@@ -1,0 +1,7 @@
+# Imágenes generadas por capturador_imagenes
+capturas/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
